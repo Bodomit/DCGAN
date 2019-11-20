@@ -1,0 +1,13 @@
+tensorflow-gpu==2
+tensorflow-addons
+tensorflow-datasets
+matplotlib
+seaborn
+sacred
+pymongo
+pyyaml
+gitpython
+tqdm
+pep8
+pylint
+mypy
